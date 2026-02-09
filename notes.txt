@@ -1,0 +1,3 @@
+"Line 1: Today I learned about Git basics" 
+"Line 2: I learned how to commit changes" 
+"Line 3: I learned about staging area" 
